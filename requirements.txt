@@ -1,0 +1,4 @@
+qiskit[visualization]
+notebook
+matplotlib
+pylatexenc
