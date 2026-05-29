@@ -1,0 +1,7 @@
+# Son Introduction
+
+My role in this project is Junior Quantum Learner.
+
+I am learning how Python, GitHub, and quantum circuits work step by step.
+
+My first goal is to understand how to safely edit files, save changes, commit work, and contribute to the team project.

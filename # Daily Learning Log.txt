@@ -1,0 +1,16 @@
+# Daily Learning Log
+
+## Day 1
+
+Today I learned how to:
+
+- Open Command Prompt
+- Check Python
+- Check Git
+- Clone a GitHub repository
+- Create project documents
+- Prepare my first commit
+
+## Question I Have
+
+What does a quantum circuit do?

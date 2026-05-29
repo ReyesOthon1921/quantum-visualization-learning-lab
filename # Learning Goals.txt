@@ -1,0 +1,13 @@
+# Learning Goals
+
+## Week 1 Goals
+
+- Learn how to open the project
+- Learn how to use GitHub Desktop
+- Learn what a commit means
+- Learn what a quantum circuit looks like
+- Learn the difference between Python files and notebooks
+
+## Safety Rule
+
+I will not delete files, install packages, or run unknown code without help.
