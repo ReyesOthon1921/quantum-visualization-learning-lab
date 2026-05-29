@@ -1,0 +1,21 @@
+# Son Notes: Classical Bits vs Qubits
+
+## Classical Bit
+
+A classical bit is either 0 or 1.
+
+## Qubit
+
+A qubit can be written as:
+
+|ψ⟩ = a|0⟩ + b|1⟩
+
+## What I Learned
+
+A qubit uses amplitudes before measurement.
+
+When measured, it becomes either 0 or 1.
+
+## Connection to Our Project
+
+Our Bell-state circuit uses qubits instead of classical bits.
